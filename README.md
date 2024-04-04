@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 🔭 I’m I'm a Fullstack Developer
+- 🔭 I'm a Fullstack Developer
 - 🌱 I’m currently learning K8s, aws,
 - 👯 I’m Always ready to collaborate for Dev Experiments
-- 🤔 I’m FrontEnd DeveLoper At CricStox
+- 🤔 I’m FrontEnd Developer At CricStox
 - 💬 Ask me about software Development
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
 - 📫 How to reach me:
