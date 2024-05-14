@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I'm a Fullstack Developer
 - 🌱 I’m currently learning K8s, aws,
 - 👯 I’m Always ready to collaborate for Dev Experiments
-- 🤔 I’m FrontEnd Developer At CricStox
+- 🤔 I’m freelancer 
 - 💬 Ask me about software Development
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
 - 📫 How to reach me:
