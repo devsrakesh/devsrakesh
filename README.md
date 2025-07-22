@@ -1,28 +1,93 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/devsrakesh/devsrakesh/main/wave.gif" width="30px"> Hello, I'm Rakesh Rajput 
 
-<!--
-**devsrakesh/devsrakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Fullstack Developer (JavaScript/TypeScript)`**  
+📍 Based in Bengaluru, India | 🕒 Open for Collaborations  
 
-Here are some ideas to get you started:
+---
 
+## 🛠️ Tech Stack & Tools
 
--->
+### **Frontend**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-# 💫 About Me:
-- 🔭 I'm a Fullstack Developer
-- 🌱 I’m currently learning K8s, aws,
-- 👯 I’m Always ready to collaborate for Dev Experiments
-- 🤔 I’m freelancer 
-- 💬 Ask me about software Development
-- ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
-- 📫 How to reach me:
+### **Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=plastic&logo=nuxt.js&logoColor=white) [Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=plastic&logo=quasar&logoColor=black) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devsrakesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devsrakesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devsrakesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### **DevOps & Cloud**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+### **Tools**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-  
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsrakesh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsrakesh&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsrakesh&theme=radical" alt="devsrakesh" />
+</div>
+
+---
+
+## 💼 Professional Experience  
+
+### **Software Engineer** @ [iKey.in](https://ikey.in)  
+`Dec 2024 - Present | Mumbai, India`  
+- Spearheaded end-to-end development of corporate website using NestJS, MongoDB  
+- Deployed infrastructure on AWS (EC2, S3) and Vercel  
+- Collaborated with frontend teams for seamless UI integration  
+
+### **Software Developer** @ Housing Cart  
+`Sep 2023 - Jun 2024 | Bilaspur, India`  
+- Developed e-commerce platform for real estate listings  
+- Implemented responsive UI with Vue.js and TailwindCSS  
+
+### **JavaScript Developer** @ CricStox  
+`Sep 2022 - Sep 2023 | Pune, India`  
+- Built sports analytics dashboard with React and Node.js  
+
+---
+
+## 🎓 Education  
+- **MTech in Computer Science**  
+  Guru Ghansidas Central University (2024)  
+
+- **BE in Computer Engineering**  
+  Govt. Engineering College Bilaspur (2018-2022)  
+
+---
+
+## 📫 Let's Connect!  
+<div align="left">
+  <a href="https://www.linkedin.com/in/rakeshrajput9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:trsrajput1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://57w9xi.sse.codesandbox.io/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=devsrakesh&label=Profile%20views&color=0e75b6&style=flat" alt="devsrakesh" /> 
+</p>
